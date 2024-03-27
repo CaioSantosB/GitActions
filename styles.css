@@ -20,7 +20,7 @@ main {
 form label {
     display: block;
     margin-bottom: 5px;
-}
+} 
 
 form input, form select {
     width: 100%;
