@@ -131,7 +131,7 @@
     "yallist": "^4.0.0"
   },
   "scripts": {
-    "validate-html": "html-validate 'hotel.html' --format text",
+    "validate-html": "html-validate 'hotel.html'",
     "validate-css": "stylelint 'styles.css' --fix"
 },
   "keywords": [],
